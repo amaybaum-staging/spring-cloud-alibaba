@@ -1,8 +1,5 @@
 {
-  "settingsInheritedFrom": "amaybaum-staging/whitesource-config@main",
-  "scanSettings": {
-    "javaVersion": 17
-  }
+  "settingsInheritedFrom": "amaybaum-staging/whitesource-config@main"
 }
 
 
